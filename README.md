@@ -68,6 +68,3 @@ Admin panel available at `http://localhost:5174`.
 - **Backend**: Node.js, Express.js, MongoDB
 - **Payments**: Stripe API
 
-## License
-
-This project is licensed under the MIT License.
